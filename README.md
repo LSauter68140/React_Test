@@ -3,7 +3,7 @@
 ## Other Framework and Library 
 
  - I use Typescript to have a better readability of the project and save time during the development
- - [Materiel Ui](https://material-ui.com/) to have a large library of existing component.
+ - [Materiel Ui](https://material-ui.com/) to have a large library of existing components.
 
 
 ### `npm install`
